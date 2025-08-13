@@ -30,7 +30,7 @@ dependencies = [
     "xarray",
     "torch",
     "torchvision",
-    "numpy"
+    "numpy",
 ]
 
 
