@@ -29,7 +29,8 @@ dependencies = [
     "urllib3",
     "xarray",
     "torch",
-    "torchvision"
+    "torchvision",
+    "numpy",
 ]
 
 
